@@ -22,9 +22,16 @@ table, th, td {
 
 /* TODO: Add your primary and secondary styling below! */
 .primary-button {
-
+background-color: #4CAF50;
+border: none;
+color: white;
+padding: 15px 32px;
 }
 
 .secondary-button {
+background-color: #008CBA;
+border: none;
+color: white;
+padding: 10px 16px;
   
 }
